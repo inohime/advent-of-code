@@ -1,9 +1,10 @@
 # advent-of-code
-my solutions for advent of code
-Nov. 30th - Dec 6th: C++
+#### My solutions for advent of code
 
-Dec. 8th - Dec. 15th: Rust
+Nov. 30th - Dec 6th: `C++`
 
-Dec. 16th - Dec. 23rd: Python
+Dec. 8th - Dec. 15th: `Rust`
 
-Dec. 24th: To be determined..
+Dec. 16th - Dec. 23rd: `Python`
+
+Dec. 24th: `To be determined..`
